@@ -1,0 +1,19 @@
+{
+  "name": "ripple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "babel-cli": "^6.5.1",
+    "ripple-lib": "^0.16.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
